@@ -1,0 +1,27 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment / secrets
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated visualizations
+visualizations/*.png
+visualizations/*.jpg
+visualizations/*.jpeg
+visualizations/*.svg
+
+# Generated/processed data
+data/processed/
